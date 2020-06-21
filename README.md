@@ -8,7 +8,7 @@
 
 更多详见 [egg docs][egg] 
 
-### Development
+### 调试模式
 
 ```bash
 $ npm i
