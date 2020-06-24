@@ -3,9 +3,6 @@
 
 
 ## 快速启动
-
-<!-- add docs here for user -->
-
 更多详见 [egg docs][egg] 
 
 ### 调试模式
